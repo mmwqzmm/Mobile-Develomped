@@ -1,1 +1,1 @@
-https://www.figma.com/proto/gS7pZhlgFgamPDmlB5DCm8/Figma-basics?node-id=4368-321039&node-type=canvas&t=yDqUMihLHzzaQSra-1&scaling=min-zoom&content-scaling=fixed&page-id=1669%3A162202&starting-point-node-id=4368%3A321039&share=1
+https://www.figma.com/design/7wkAcDLcUXqycc3WprKvjR/Untitled?node-id=0-1&t=MKyOLMSNAyq98CaS-1
